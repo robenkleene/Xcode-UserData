@@ -9,7 +9,7 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLog(@"%s %@ %@", __PRETTY_FUNCTION__, @"&lt;#message#&gt;", &lt;#variable#&gt;);
+	<string>NSLog(@"%s &lt;#message#&gt; %@", __PRETTY_FUNCTION__, &lt;#variable#&gt;);
 </string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>051B9468-1425-4E3D-8BFE-06D2366BF317</string>

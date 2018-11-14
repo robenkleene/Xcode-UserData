@@ -6,7 +6,7 @@
 	<string>logv</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>NSLog("\(#function) &lt;#message#&gt; \(String(describing: &lt;#variable#&gt;))")</string>

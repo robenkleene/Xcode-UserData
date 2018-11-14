@@ -6,7 +6,7 @@
 	<string>log</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>NSLog(@"%s &lt;#message#&gt;", __PRETTY_FUNCTION__);</string>

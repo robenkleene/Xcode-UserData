@@ -8,26 +8,6 @@
 		<array>
 			<dict>
 				<key>Action</key>
-				<string>performAlertEvent:</string>
-				<key>Alternate</key>
-				<string>NO</string>
-				<key>CommandID</key>
-				<string>31FFA77C-71A0-4E68-8174-7F05D33F241B-40212-0004B3CEC9637BC1</string>
-				<key>Group</key>
-				<string>Xcode Menu</string>
-				<key>GroupID</key>
-				<string>Xcode.IDEKit.MenuDefinition.Xcode</string>
-				<key>GroupedAlternate</key>
-				<string>NO</string>
-				<key>Navigation</key>
-				<string>NO</string>
-				<key>Parent Title</key>
-				<string>Behaviors</string>
-				<key>Title</key>
-				<string>New Behavior</string>
-			</dict>
-			<dict>
-				<key>Action</key>
 				<string>focusSelectedNodeAction:</string>
 				<key>Alternate</key>
 				<string>NO</string>

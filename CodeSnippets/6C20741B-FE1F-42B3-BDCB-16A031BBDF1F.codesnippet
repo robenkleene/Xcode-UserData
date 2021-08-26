@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>loopuntil</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>let loopUntil = NSDate(timeIntervalSinceNow: &lt;# seconds #&gt;)
+while &lt;# condition #&gt;, loopUntil.timeIntervalSinceNow &gt; 0 {
+    RunLoop.current.run(mode: RunLoop.Mode.default, before: loopUntil as Date)
+}
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>6C20741B-FE1F-42B3-BDCB-16A031BBDF1F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Swift Loop Until</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

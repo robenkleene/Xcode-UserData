@@ -172,6 +172,8 @@
 			<string>deleteWordBackward:</string>
 			<key>~</key>
 			<string>pageUp:</string>
+			<key>~$</key>
+			<string>selectLine:, copy:, moveToEndOfLine:, insertNewline:, paste:</string>
 		</dict>
 		<key>Version</key>
 		<integer>3</integer>
